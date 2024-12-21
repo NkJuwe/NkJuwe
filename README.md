@@ -47,7 +47,7 @@ Hi! 👋 I'm **Nkechi Juwe**, a passionate Cloud Security and DevOps Engineer wi
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NkJuwe&show_icons=true&theme=dark&count_private=true)
 
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Emmywelly&theme=dark&hide_border=false)
+![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NkJuwe&theme=dark&hide_border=false)
 
 
 ##  Most Used Languages:
@@ -60,7 +60,7 @@ Hi! 👋 I'm **Nkechi Juwe**, a passionate Cloud Security and DevOps Engineer wi
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NkJuwe&theme=darkhub&margin-w=15&margin-h=15)
 
 ###  Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=Emmywelly&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=NkJuwe&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 ---
