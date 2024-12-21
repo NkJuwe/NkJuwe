@@ -53,7 +53,7 @@ Hi! 👋 I'm **Nkechi Juwe**, a passionate Cloud Security and DevOps Engineer wi
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NkJuwe&layout=compact&theme=dark)
 
-
+---
 ##  GitHub Trophies:
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NkJuwe&theme=darkhub&margin-w=15&margin-h=15)
